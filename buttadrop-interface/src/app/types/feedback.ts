@@ -1,9 +1,10 @@
-// src/app/types/Feedback.ts
+
+import { StaticImport } from "next/dist/shared/lib/get-img-props"
 
 export interface Feedback {
     id: number
     name: string
-    avatarUrl?: string
+    avatarUrl: string | StaticImport
     testimonial: string
     role?: string
   }
