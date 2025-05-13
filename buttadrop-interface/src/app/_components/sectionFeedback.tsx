@@ -45,7 +45,7 @@ export function ShowFeedback({ data }: FeedbackComponentProps) {
                                 {data.map((item) => (
                                     <div key={item.id} className='flex-[0_0_100%] min-w-0 px-3'>
 
-                                        <article className='bg-[#d41818] text-white rounded-2xl p-6 space-y-4 flex flex-col'>
+                                        <article className='bg-gray-800 text-white rounded-2xl p-6 space-y-4 flex flex-col'>
 
                                             <div className='flex flex-col items-center text-center space-y-4 select-none '>
 
