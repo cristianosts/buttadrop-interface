@@ -3,7 +3,7 @@ import { Composition } from "./_components/sectionComposition";
 import { Meeting } from "./_components/sectionMeeting";
 import { CompositionData } from "./types/composition";
 import { ShowFeedback } from "./_components/sectionFeedback";
-import { feedbackData } from "./types/Feedback";
+import { feedbackData } from "./types/feedback";
 import { Footer } from "./_components/sectionFooter";
 
 export default function Home() {
