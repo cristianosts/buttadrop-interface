@@ -1,2 +1,2 @@
 # buttadrop-interface
-interface using react | next | tailwindcss
+interface using react | next | typescript | tailwindcss
