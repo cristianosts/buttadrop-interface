@@ -2,7 +2,7 @@
 
 import UseEmblaCarousel from 'embla-carousel-react'
 import { ChevronLeft, ChevronRight } from 'lucide-react'
-import { Feedback as FeedbackProps } from '../types/composition'
+import { Feedback as FeedbackProps } from '../types/feedback'
 import Image from 'next/image'
 
 interface FeedbackComponentProps {
