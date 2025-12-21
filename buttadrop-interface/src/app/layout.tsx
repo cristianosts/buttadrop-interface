@@ -10,7 +10,7 @@ const mulishSans = Mulish({
 
 
 export const metadata: Metadata = {
-  title: "Butta Drop",                                                                                 
+  title: "Butta Drop",                                                                                  
   description: "BDrop",
 };
 
