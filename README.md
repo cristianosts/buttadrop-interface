@@ -12,7 +12,6 @@ Aplicação web construída para oferecer uma experiência digital fluida e resp
 - `src/components/` → Componentes reutilizáveis
 - `src/pages/` → Páginas principais
 - `src/styles/` → Configurações de estilo com Tailwind
-- `src/hooks/` → Hooks personalizados
 
 ### ⚙️ Instalação
 Clone o repositório e instale as dependências:
